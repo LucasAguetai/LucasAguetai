@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LucasAguetai
-- 👀 I’m interested in computer science, like python
-- 🌱 I’m currently learning php, java
+- 👀 I’m interested in computer science, like python, java, etc...
+- 🌱 I’m currently learning php
 - 📫 How to reach me lucas@aguetai.fr
 - 🧑🏻‍💻 You can visit my website: https://www.lucas.aguetai.fr
 
