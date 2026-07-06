@@ -52,15 +52,6 @@
 | **Kernel** | An operating system from scratch: boot, memory management, interrupts | C, Assembly |
 | [**ALOQAS**](https://github.com/LucasAguetai/ALOQAS) | Algorithmic Learning and Optimized Quantum Artificial Solutions | Python, Jupyter |
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasAguetai&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAguetai&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
 ---
 
 <div align="center">
